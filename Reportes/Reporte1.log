@@ -1,0 +1,448 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.6)  27 OCT 2017 13:07
+entering extended mode
+**./Reporte1.tex
+(Reporte1.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen126
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks18
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks19
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(Reporte1.aux)
+\openout1 = `Reporte1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+-- Lines per column: 50 (exact).
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen137
+\scratchbox=\box30
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen138
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+(Reporte1.toc)
+\tf@toc=\write3
+\openout3 = `Reporte1.toc'.
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 15--20
+[]\OT1/ptm/m/n/12 El con-trol a de-sempe[]nado un pa-pel muy
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 15--20
+\OT1/ptm/m/n/12 mod-er-nos de fab-ri-caci[]on cualquier op-eraci[]on
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 15--20
+\OT1/ptm/m/n/12 Estos sis-temas pueden ser rep-re-sen-ta-dos por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
+\OT1/ptm/m/n/12 de ecua-ciones que pueden rep-re-sen-tar el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
+\OT1/ptm/m/n/12 com-por-tamiento del sis-tema. Es-tos sis-temas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
+
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 15--20
+\OT1/ptm/m/n/12 Los sis-temas se pueden di-vidir de-pende el
+ []
+
+<images/F1.png, id=1, 398.23781pt x 323.70938pt>
+File: images/F1.png Graphic file (type png)
+ <use images/F1.png>
+Package pdftex.def Info: images/F1.png used on input line 27.
+(pdftex.def)             Requested size: 199.11841pt x 161.8543pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<images/RCI.png, id=12, 308.65312pt x 178.41656pt>
+File: images/RCI.png Graphic file (type png)
+ <use images/RCI.png>
+Package pdftex.def Info: images/RCI.png used on input line 39.
+(pdftex.def)             Requested size: 154.32617pt x 89.20805pt.
+
+Underfull \hbox (badness 4024) in paragraph at lines 66--67
+[]\OT1/ptm/m/n/12 Para poder ob-ser-var el com-por-tamiento de
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 86.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 96--98
+\OT1/ptm/m/n/12 Para pro-bar el pro-grama se uso un cir-cuito
+ []
+
+[2 <./images/F1.png> <./images/RCI.png>]
+<images/GRAF.png, id=23, 612.2875pt x 461.725pt>
+File: images/GRAF.png Graphic file (type png)
+ <use images/GRAF.png>
+Package pdftex.def Info: images/GRAF.png used on input line 109.
+(pdftex.def)             Requested size: 244.91066pt x 184.68672pt.
+
+<images/funcionscilab.png, id=24, 354.57469pt x 281.55188pt>
+File: images/funcionscilab.png Graphic file (type png)
+
+<use images/funcionscilab.png>
+Package pdftex.def Info: images/funcionscilab.png used on input line 114.
+(pdftex.def)             Requested size: 212.74644pt x 168.93242pt.
+
+<images/funcionscilab2.png, id=25, 366.61969pt x 275.52937pt>
+File: images/funcionscilab2.png Graphic file (type png)
+
+<use images/funcionscilab2.png>
+Package pdftex.def Info: images/funcionscilab2.png used on input line 121.
+(pdftex.def)             Requested size: 219.97351pt x 165.3189pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: images/funcionscilab2.png Graphic file (type png)
+
+<use images/funcionscilab2.png>
+Package pdftex.def Info: images/funcionscilab2.png used on input line 127.
+(pdftex.def)             Requested size: 219.97351pt x 165.3189pt.
+ <images/h.png, id=26, 612.2875pt x 461.725pt>
+File: images/h.png Graphic file (type png)
+
+<use images/h.png>
+Package pdftex.def Info: images/h.png used on input line 134.
+(pdftex.def)             Requested size: 244.91066pt x 184.68672pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 139--141
+\OT1/ptm/m/n/12 En esta pr[]actica tu-vi-mos la opor-tu-nidad de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+[3 <./images/GRAF.png> <./images/funcionscilab.png> <./images/funcionscilab2.pn
+g> <./images/h.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 180--181
+[]\OT1/ptm/m/n/9 Apuntes Scilab, Rosa Echev-err[]a L[]bano, Uni-ver-si-dad de
+
+ []
+
+[4
+
+] (Reporte1.aux) ) 
+Here is how much of TeX's memory you used:
+ 3043 strings out of 493323
+ 46637 string characters out of 3139067
+ 117618 words of memory out of 3000000
+ 6542 multiletter control sequences out of 15000+200000
+ 37609 words of font info for 75 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,6n,25p,524b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr
+8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Reporte1.pdf (4 pages, 206363 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

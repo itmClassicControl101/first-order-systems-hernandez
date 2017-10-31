@@ -1,0 +1,1925 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.6)  27 OCT 2017 12:06
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen126
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks18
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks19
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+No file document.aux.
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+-- Lines per column: 50 (exact).
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen137
+\scratchbox=\box30
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen138
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 10.
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.10 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.10 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.10 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.10 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.10 \maketitle
+               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 \maketitle
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.10 \maketitle
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+No file document.toc.
+\tf@toc=\write3
+\openout3 = `document.toc'.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 13.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...ara ver la respuesta de este a una funci√≥
+                                                  n escalon.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.13 ...ara ver la respuesta de este a una funci√≥
+                                                  n escalon.
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 \section
+             {Introducci√≥n}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 \section{Introducci√≥n}
+                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.14 \section{Introducci√≥n}
+                            
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 \section{Introducci√≥n}
+                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.14 \section{Introducci√≥n}
+                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 El control a desempe√±
+                           ado un papel muy importante en el avance de la te...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.15 ...uy importante en el avance de la tecnolog√
+                                                  ≠a y procesos indutriales....
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.15 ...uy importante en el avance de la tecnolog√
+                                                  ≠a y procesos indutriales....
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.15 ...oticos, en procesos modernos de fabricaci√
+                                                  ≥n cualquier operaci√≥n in...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.15 ...oticos, en procesos modernos de fabricaci√
+                                                  ≥n cualquier operaci√≥n in...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.15 ...odernos de fabricaci√≥n cualquier operaci√
+                                                  ≥n industrial que requiera...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.15 ...odernos de fabricaci√≥n cualquier operaci√
+                                                  ≥n industrial que requiera...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 15.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.15 ...requiera el control de temperatura, presi√
+                                                  ≥n, humedad, flujo,etc.\ci...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.15 ...requiera el control de temperatura, presi√
+                                                  ≥n, humedad, flujo,etc.\ci...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Citation `Ogata' on page 1 undefined on input line 15.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 16.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.16 ...den ser representados por un modelo matem√
+                                                  °tico el cual es un conjun...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.16 ...den ser representados por un modelo matem√
+                                                  °tico el cual es un conjun...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 16.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 16.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.16 ...el sistema. Estos sistemas pueden ser din√
+                                                  °micos, el√©ctricos, mec√°...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.16 ...el sistema. Estos sistemas pueden ser din√
+                                                  °micos, el√©ctricos, mec√°...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 16.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 16.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.16 ... Estos sistemas pueden ser din√°micos, el√
+                                                  ©ctricos, mec√°nicos, entr...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.16 ... Estos sistemas pueden ser din√°micos, el√
+                                                  ©ctricos, mec√°nicos, entr...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 16.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.16 ...s pueden ser din√°micos, el√©ctricos, mec√
+                                                  °nicos, entre otros m√°s. \\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.16 ...s pueden ser din√°micos, el√©ctricos, mec√
+                                                  °nicos, entre otros m√°s. \\
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 16.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 16.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.16 ...s, el√©ctricos, mec√°nicos, entre otros m√
+                                                  °s. \\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.16 ...s, el√©ctricos, mec√°nicos, entre otros m√
+                                                  °s. \\
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 16.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 17.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.17 Estos modelos pueden variar seg√
+                                     ∫n la persepectiva se tenga del problem...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.17 Estos modelos pueden variar seg√
+                                     ∫n la persepectiva se tenga del problem...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 17.
+
+
+
+LaTeX Warning: Citation `Ogata' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.19 ... pueden dividir depende el modelado matem√
+                                                  °tico que este tenga puede...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.19 ... pueden dividir depende el modelado matem√
+                                                  °tico que este tenga puede...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.19 ... de orden uno , dos, ... n. Donde entre m√
+                                                  °s alto es el orden m√°s c...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.19 ... de orden uno , dos, ... n. Donde entre m√
+                                                  °s alto es el orden m√°s c...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.19 ..... n. Donde entre m√°s alto es el orden m√
+                                                  °s complicado es resolverl...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.19 ..... n. Donde entre m√°s alto es el orden m√
+                                                  °s complicado es resolverl...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 19.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 19.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.19 ... es resolverlo ya que presenta una ecuaci√
+                                                  ≥n con un orden mayor, en ...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.19 ... es resolverlo ya que presenta una ecuaci√
+                                                  ≥n con un orden mayor, en ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 \section
+             {Desarrollo}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
+[]\OT1/ptm/m/n/12 El con-trol a de-
+ []
+
+
+Overfull \hbox (71.94109pt too wide) in paragraph at lines 15--21
+\OT1/ptm/m/n/12 sempe[]A$\OMS/cmsy/m/n/12 \OML/cmm/m/it/12 adounpapelmuyimport
+anteenelavancedelatecnolog[]\OT1/ptm/m/n/12 -
+ []
+
+
+Overfull \hbox (1194.75935pt too wide) in paragraph at lines 15--21
+\OML/cmm/m/it/12 ayprocesosindutriales:Algunasdelasramasquehantenidounavancesig
+nificativosonlossistemasdevehiculosespaciales; enlossistemasroboticos; enproces
+osmodernosdefabricaci[][]ncualquieroperaci[][]nindustrialquerequieraelcontrolde
+temperatura; presi[][]n; humedad; flujo; etc:\OT1/cmr/m/n/12 [[]][] 
+ []
+
+
+Overfull \hbox (957.68758pt too wide) in paragraph at lines 15--21
+\OML/cmm/m/it/12 Estossistemaspuedenserrepresentadosporunmodelomatem[]\OT1/cmr/
+m/n/12 !`\OML/cmm/m/it/12 ticoelcualesunconjuntodeecuacionesquepuedenrepresenta
+relcomportamientodelsistema:Estossistemaspuedenserdin[]\OT1/cmr/m/n/12 !`\OML/c
+mm/m/it/12 micos; el[][]ctricos; mec[]\OT1/cmr/m/n/12 !`\OML/cmm/m/it/12 nicos;
+ entreotrosm[]\OT1/cmr/m/n/12 !`\OML/cmm/m/it/12 s:[] 
+ []
+
+
+Overfull \hbox (172.53358pt too wide) in paragraph at lines 15--21
+\OML/cmm/m/it/12 Estosmodelospuedenvariarseg[][]nlapersepectivasetengadelproble
+maplanteado:\OT1/cmr/m/n/12 [[]][] 
+ []
+
+
+Overfull \hbox (1378.82126pt too wide) in paragraph at lines 15--21
+\OML/cmm/m/it/12 Lossistemassepuedendividirdependeelmodeladomatem[]\OT1/cmr/m/n
+/12 !`\OML/cmm/m/it/12 ticoqueestetengapuedeserdeordenuno; dos; :::n:Dondeentre
+m[]\OT1/cmr/m/n/12 !`\OML/cmm/m/it/12 saltoeselordenm[]\OT1/cmr/m/n/12 !`\OML/c
+mm/m/it/12 scomplicadoesresolverloyaquepresentaunaecuaci[][]nconunordenmayor; e
+nestapracticasoloseanalizounsistemadeprimerordenelcualsolopuedeserdelasiguiente
+forma \OT1/cmr/m/n/12 :$$\OML/cmm/m/it/12 Y\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 s\
+OT1/cmr/m/n/12 ) =
+ []
+
+<images/SH.png, id=1, 398.23781pt x 323.70938pt>
+File: images/SH.png Graphic file (type png)
+ <use images/SH.png>
+Package pdftex.def Info: images/SH.png used on input line 25.
+(pdftex.def)             Requested size: 199.11841pt x 161.8543pt.
+
+<images/RCI.png, id=3, 308.65312pt x 178.41656pt>
+File: images/RCI.png Graphic file (type png)
+ <use images/RCI.png>
+Package pdftex.def Info: images/RCI.png used on input line 35.
+(pdftex.def)             Requested size: 154.32617pt x 89.20805pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 Aplicamos Laplace a la ecuaci√≥
+                                    n anterior.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.43 Aplicamos Laplace a la ecuaci√≥
+                                    n anterior.
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.48 ...licar Laplace encontramos la F.T. (Funci√≥
+                                                  n de transferencia).\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.48 ...licar Laplace encontramos la F.T. (Funci√≥
+                                                  n de transferencia).\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 49.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.49 La funci√
+              ≥n de transferencia es la salida que en este caso es $\frac{V(...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.49 La funci√
+              ≥n de transferencia es la salida que en este caso es $\frac{V(...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no Á in font cmex10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.49 ...salida que en este caso es $\frac{V(S)}{R}
+                                                  $ entre la entrada que es ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.49 ...salida que en este caso es $\frac{V(S)}{R}
+                                                  $ entre la entrada que es ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.49 ...rada que es $I(S)$ por lo tanto la funci√≥
+                                                  n de trasferencia quedaria...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.49 ...rada que es $I(S)$ por lo tanto la funci√≥
+                                                  n de trasferencia quedaria...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.50 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (67.66989pt too wide) in paragraph at lines 48--50
+\OML/cmm/m/it/12 Lafunci[][]ndetransferenciaeslasalidaqueenestecasoes$\OT1/ptm/
+m/n/12 V(S)$[]$
+ []
+
+
+Overfull \hbox (25.8635pt too wide) in paragraph at lines 48--50
+\OT1/ptm/m/n/12 funci[]A$[]\OML/cmm/m/it/12 ndetrasferenciaquedariadelasiguient
+eforma:$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 ...empo llamada tau $(\tau)$. Por la ecuaci√≥
+                                                  n obtenida podemos decir q...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.59 ...empo llamada tau $(\tau)$. Por la ecuaci√≥
+                                                  n obtenida podemos decir q...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60 \subsection
+                {Programa en scilab para observar el comportamiento de un si...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (78.68967pt too wide) in paragraph at lines 59--60
+\OT1/ptm/m/n/12 ecuaci[]A$[]\OML/cmm/m/it/12 nobtenidapodemosdecirqueesunsistem
+adeprimerorden:$ 
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 62--63
+[]\OT1/ptm/m/n/12 Para poder ob-ser-var el com-por-tamiento de
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.66 La ecuaci√≥
+                n anterior la podemos resolver por el m√©todo de fracciones ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.66 La ecuaci√≥
+                n anterior la podemos resolver por el m√©todo de fracciones ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 66.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.66 ...√≥n anterior la podemos resolver por el m√
+                                                  ©todo de fracciones parcia...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.66 ...√≥n anterior la podemos resolver por el m√
+                                                  ©todo de fracciones parcia...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Á in font cmex10!
+
+Overfull \hbox (166.16309pt too wide) in paragraph at lines 66--67
+[]\OT1/ptm/m/n/12 La ecuaci[]A$[]\OML/cmm/m/it/12 nanteriorlapodemosresolverpor
+elm[][]tododefraccionesparciales:$ 
+ []
+
+
+Overfull \vbox (209.49603pt too high) has occurred while \output is active []
+
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./images/SH.png> <./images/RCI.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.80 Conociendo la ecuaci√≥
+                           n anterior podemos dise√±ar un programa que nos p...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.80 Conociendo la ecuaci√≥
+                           n anterior podemos dise√±ar un programa que nos p...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 80.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.80 ...ciendo la ecuaci√≥n anterior podemos dise√
+                                                  ±ar un programa que nos pe...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.80 ...ciendo la ecuaci√≥n anterior podemos dise√
+                                                  ±ar un programa que nos pe...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 \begin{center}
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.81 \begin{center}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Á in font cmex10!
+
+Overfull \hbox (10.81906pt too wide) in paragraph at lines 80--81
+[]\OT1/ptm/m/n/12 Conociendo la ecuaci[]A$[]\OML/cmm/m/it/12 nanteriorpodemosdi
+se[] \OMS/cmsy/m/n/12 
+ []
+
+
+Overfull \hbox (225.50183pt too wide) in paragraph at lines 80--81
+\OML/cmm/m/it/12 arunprogramaquenospermitaobservarelcomportamientodecualquiersi
+stemadeprimerorden:$ 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 82.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.89 fig1-3 C√≥
+               digo implementado en scilab \cite{Mora}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.89 fig1-3 C√≥
+               digo implementado en scilab \cite{Mora}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Citation `Mora' on page 2 undefined on input line 89.
+
+
+! LaTeX Error: Command \end{document} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.90 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.90 \end{center}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.92 ...ograma solo basta con escribir la ecuaci√≥
+                                                  n de la forma $Y(s) = \fra...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.92 ...ograma solo basta con escribir la ecuaci√≥
+                                                  n de la forma $Y(s) = \fra...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.92 ...e la forma $Y(s) = \frac{bs + c}{s(s + a)}
+                                                  $ para encontrar los valor...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.92 ...e la forma $Y(s) = \frac{bs + c}{s(s + a)}
+                                                  $ para encontrar los valor...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 92--94
+\OT1/ptm/m/n/12 ecuaci[]A$[]\OML/cmm/m/it/12 ndelaforma$\OT1/ptm/m/n/12 Y(s) = 
+bs + c$[]$ para
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 92--94
+\OT1/ptm/m/n/12 Para pro-bar el pro-grama se uso un cir-cuito
+ []
+
+<images/GRAF.png, id=19, 612.2875pt x 461.725pt>
+File: images/GRAF.png Graphic file (type png)
+ <use images/GRAF.png>
+Package pdftex.def Info: images/GRAF.png used on input line 105.
+(pdftex.def)             Requested size: 306.143pt x 230.86194pt.
+
+Overfull \hbox (54.143pt too wide) in paragraph at lines 105--105
+ [] 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 ...n d√≠a, ya que la parte de automatizaci√≥
+                                                  n se usa en practicamente ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.110 ...n d√≠a, ya que la parte de automatizaci√≥
+                                                  n se usa en practicamente ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 110.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.110 ...uede ser determinado por un modelo matem√
+                                                  °tico y simulado con un ci...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.110 ...uede ser determinado por un modelo matem√
+                                                  °tico y simulado con un ci...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 110.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 110.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.110 ...atem√°tico y simulado con un circuito el√
+                                                  ©ctrico lo cual hace muy p...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.110 ...atem√°tico y simulado con un circuito el√
+                                                  ©ctrico lo cual hace muy p...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 110.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.110 ... circuito el√©ctrico lo cual hace muy pr√
+                                                  °ctico ya que podemos ir p...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.110 ... circuito el√©ctrico lo cual hace muy pr√
+                                                  °ctico ya que podemos ir p...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 110.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 110.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.110 ...robarlo con un sistema completo que podr√
+                                                  ≠a fallar y generar muchas...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.110 ...robarlo con un sistema completo que podr√
+                                                  ≠a fallar y generar muchas...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 110.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.110 ...≠a fallar y generar muchas perdidas econ√
+                                                  ≥micas.
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.110 ...≠a fallar y generar muchas perdidas econ√
+                                                  ≥micas.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+Missing character: There is no Á in font cmex10!
+
+Underfull \hbox (badness 6575) in paragraph at lines 110--111
+[]\OT1/ptm/m/n/12 En esta pr[]A!`ctica tu-vi-mos la opor-tu-nidad
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 110--111
+\OT1/ptm/m/n/12 de ver como el con-trol es muy im-por-tante
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 110--111
+\OT1/ptm/m/n/12 hoy en d[]A-a, ya que la parte de au-tom-a-ti-
+ []
+
+
+Overfull \hbox (1362.50394pt too wide) in paragraph at lines 110--111
+\OT1/ptm/m/n/12 zaci[]A$[]\OML/cmm/m/it/12 nseusaenpracticamentetodoslossistema
+sindustrialesactuales:Sepudoobservarquecualquiersistemapuedeserdeterminadoporun
+modelomatem[]\OT1/cmr/m/n/12 !`\OML/cmm/m/it/12 ticoysimuladoconuncircuitoel[][
+]ctricolocualhacemuypr[]\OT1/cmr/m/n/12 !`\OML/cmm/m/it/12 cticoyaquepodemosirp
+robandopormediodeuncircuitoenvezdeprobarloconunsistemacompletoquepodr[]\OT1/ptm
+/m/n/12 -
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.147 ...rol Moderna , Katsuhiko Ogata, 5a Edici√≥
+                                                  n.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.147 ...rol Moderna , Katsuhiko Ogata, 5a Edici√≥
+                                                  n.
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 	\bibitem{Echeverria}
+                            Apuntes Scilab, Rosa Echeverr√≠a L√≠bano, Univer...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 	\bibitem{Echeverria}
+                            Apuntes Scilab, Rosa Echeverr√≠a L√≠bano, Univer...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 	\bibitem{Echeverria}
+                            Apuntes Scilab, Rosa Echeverr√≠a L√≠bano, Univer...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 148.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.148 ...cheverria} Apuntes Scilab, Rosa Echeverr√
+                                                  ≠a L√≠bano, Universidad de...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.148 ...cheverria} Apuntes Scilab, Rosa Echeverr√
+                                                  ≠a L√≠bano, Universidad de...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 148.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.148 ...rria} Apuntes Scilab, Rosa Echeverr√≠a L√
+                                                  ≠bano, Universidad de Sevi...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.148 ...rria} Apuntes Scilab, Rosa Echeverr√≠a L√
+                                                  ≠bano, Universidad de Sevi...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 	\bibitem{Mora}
+                      Introducci√≥n a Scilab, H√©ctor Manuel Mora Escobar, U...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.149 	\bibitem{Mora}
+                      Introducci√≥n a Scilab, H√©ctor Manuel Mora Escobar, U...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.149 	\bibitem{Mora}
+                      Introducci√≥n a Scilab, H√©ctor Manuel Mora Escobar, U...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Á in font cmex9!
+Missing character: There is no Á in font cmex9!
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[]\OT1/ptm/m/n/9 Ingenieria de Con-trol Mod-erna , Kat-suhiko Ogata,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+\OT1/ptm/m/n/9 5a Edici[]A$[]\OML/cmm/m/it/9 n:ApuntesScilab; RosaEcheverr[]\OT
+1/ptm/m/n/9 -\OML/cmm/m/it/9 aL[]\OT1/ptm/m/n/9 -
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.149 	\bibitem{Mora} Introducci√≥
+                                  n a Scilab, H√©ctor Manuel Mora Escobar, U...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.149 	\bibitem{Mora} Introducci√≥
+                                  n a Scilab, H√©ctor Manuel Mora Escobar, U...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 149.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.149 	\bibitem{Mora} Introducci√≥n a Scilab, H√
+                                                ©ctor Manuel Mora Escobar, U...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.149 	\bibitem{Mora} Introducci√≥n a Scilab, H√
+                                                ©ctor Manuel Mora Escobar, U...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 149.
+
+LaTeX Warning: Command \~ invalid in math mode on input line 149.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ...@spacefactor \spacefactor }\accent 
+                                                  #1 #2\egroup \spacefactor ...
+l.149 ..., Universidad Nacional de Colombia Bogot√
+                                                  °
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+! You can't use `\spacefactor' in math mode.
+\add@accent ...}\accent #1 #2\egroup \spacefactor 
+                                                  \accent@spacefactor 
+l.149 ..., Universidad Nacional de Colombia Bogot√
+                                                  °
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 149.
+
+
+! LaTeX Error: Command \end{thebibliography} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \end{thebibliography}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \end{thebibliography}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \end{thebibliography}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.150 \end{thebibliography}
+                           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Á in font cmex9!
+Missing character: There is no Á in font cmex9!
+! Missing } inserted.
+<inserted text> 
+                }
+l.150 \end{thebibliography}
+                           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (144.54897pt too wide) in paragraph at lines 149--151
+[]\OT1/ptm/m/n/9 Introducci[]A$[]\OML/cmm/m/it/9 naScilab; H[][]ctorManuelMoraE
+scobar; UniversidadNacionaldeColombiaBogot[]\OT1/cmr/m/n/9 !`$ 
+ []
+
+[2 <./images/GRAF.png>] (document.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 110 ({)
+### simple group (level 2) entered at line 92 ({)
+### simple group (level 1) entered at line 92 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3065 strings out of 493323
+ 46901 string characters out of 3139067
+ 118612 words of memory out of 3000000
+ 6565 multiletter control sequences out of 15000+200000
+ 40844 words of font info for 86 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,10n,25p,535b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
+rw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (2 pages, 200495 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
