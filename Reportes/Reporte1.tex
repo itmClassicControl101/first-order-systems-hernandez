@@ -5,69 +5,69 @@
 \usepackage{graphicx}
 %%
 \title{Control I \\ {\sc Modelado de sistemas de primer orden} }
-\author{ Profesor  \\ Gerardo Marx \\ Alumnos \\ Aracely lizeth Hernandez Arteaga 14121092 \\ Erick David Bedolla GarcÌa 14121081\\ Instituto TecnologÌco de Morelia \\ Departamento de ElectrÛnica}
+\author{ Profesor ¬†\\ Gerardo Marx Ch√°ve-Campos\\ Alumnos \\ Aracely lizeth Hernandez Arteaga 14121092 \\ Erick David Bedolla Garc√≠a 14121081\\ Instituto Tecnolog√≠co de Morelia \\ Departamento de Electr√≥nica}
 \begin{document}
 \maketitle
 \tableofcontents
 \section{Resumen}
-En esta practica analizamos los modelos de sistemas de primer orden de un sistema hidr·ulico, tambiÈn implementamos un programa en scilab para ver la respuesta de este a una funciÛn escalon.
-\section{IntroducciÛn}
-El control a desempeÒado un papel muy importante en el avance de la tecnologÌa y procesos indutriales. Algunas de las ramas que han tenido un avance significativo son los sistemas de vehiculos espaciales, en los sistemas roboticos, en procesos modernos de fabricaciÛn cualquier operaciÛn industrial que requiera el control de temperatura, presiÛn, humedad, flujo,etc.\cite{Ogata} \\
-Estos sistemas pueden ser representados por un modelo matem·tico el cual es un conjunto de ecuaciones que pueden representar el comportamiento del sistema. Estos sistemas pueden ser din·micos, elÈctricos, mec·nicos, entre otros m·s. \\
-Estos modelos pueden variar seg˙n la persepectiva se tenga del problema planteado.\cite{Ogata}
+En esta pr√°ctica analizamos los modelos de sistemas de primer orden de un sistema hidr√°ulico, tambi√©n implementamos un programa en scilab para ver la respuesta de este a una funci√≥n escalon.
+\section{Introducci√≥n}
+El control a desempe√±ado un papel muy importante en el avance de la tecnolog√≠a y procesos indutriales. Algunas de las ramas que han tenido un avance significativo son los sistemas de vehiculos espaciales, en los sistemas roboticos, en procesos modernos de fabricaci√≥n cualquier operaci√≥n industrial que requiera el control de temperatura, presi√≥n, humedad, flujo,etc.\cite{Ogata} \\
+Estos sistemas pueden ser representados por un modelo matem√°tico el cual es un conjunto de ecuaciones que pueden representar el comportamiento del sistema. Estos sistemas pueden ser din√°micos, el√©ctricos, mec√°nicos, entre otros m√°s. \\
+Estos modelos pueden variar seg√∫n la persepectiva se tenga del problema planteado.\cite{Ogata}
 \\ \\
-Los sistemas se pueden dividir depende el modelado matem·tico que este tenga puede ser de orden uno , dos, ... n. Donde entre m·s alto es el orden m·s complicado es resolverlo ya que presenta una ecuaciÛn con un orden mayor, en esta practica solo se analizo un sistema de primer orden el cual solo puede ser de la siguiente forma:
+Los sistemas se pueden dividir depende el modelado matem√°tico que este tenga puede ser de orden uno , dos, ... n. Donde entre m√°s alto es el orden m√°s complicado es resolverlo ya que presenta una ecuaci√≥n con un orden mayor, en esta practica solo se analizo un sistema de primer orden el cual solo puede ser de la siguiente forma:
 $$Y(s) = \frac{bs + c}{s(s + a)}$$ cuando se le aplica un escalon unitario.
 \section{Desarrollo}
 \subsection{Problema de nivel de liquido de primer orden}
-En esta pr·tica se resolvio el siguiente sistema de nivel liquido.
+En esta pr√°tica se resolvio el siguiente sistema de nivel liquido.
 
 
 \begin{center}
 	\includegraphics[scale = 0.5]{images/F1}\\
-	{fig1-2 Sistema de elÈctrico equivalente}
+	{fig1-2 Sistema de el√©ctrico equivalente}
 \end{center}
 
 
-Del sistema mostrado en la fig1-1 se obtuvo el siguiente modelo matem·tico.
+Del sistema mostrado en la fig1-1 se obtuvo el siguiente modelo matem√°tico.
 $$Wi(t) = h(t)\frac{rg}{R} + A\frac{dh(t)}{dt}$$
 Donde h(t) es la altura que cambia con respecto al tiempo.
 \\  
-La siguiente figura se muestra el modelo equivalente en un sistema elÈctrico (fuerza - corriente) del cual se obtienen ecuaciones similares.
+La siguiente figura se muestra el modelo equivalente en un sistema el√©ctrico (fuerza - corriente) del cual se obtienen ecuaciones similares.
 
 \begin{center}
 	\includegraphics[scale = 0.5]{images/RCI}\\
-	{fig1-2 Sistema de elÈctrico equivalente}
+	{fig1-2 Sistema de el√©ctrico equivalente}
 \end{center}
 
 Las ecuaciones obtenidas del circuito son:
 
 $$i(t) = \frac{v(t)}{R} + C\frac{v(t)}{dt} $$
 
-Aplicamos Laplace a la ecuaciÛn anterior.
+Aplicamos Laplace a la ecuaci√≥n anterior.
 
 $$\mathcal{L}[i(t) = \frac{v(t)}{R} + C\frac{v(t)}{dt}]$$
-$$I(S) = \frac{V(S)}{R} + SCV(S) $$
+$$I(S) = \frac{V(S)}{R} + sCV(s) $$
 
-Despues de aplicar Laplace encontramos la F.T. (FunciÛn de transferencia).\\
-La funciÛn de transferencia es la salida que en este caso es $\frac{V(S)}{R}$ entre la entrada que es $I(S)$ por lo tanto la funciÛn de trasferencia quedaria de la siguiente forma.
+Despues de aplicar Laplace encontramos la F.T. (Funci√≥n de transferencia).\\
+La funci√≥n de transferencia es la salida que en este caso es $\frac{V(S)}{R}$ entre la entrada que es $I(S)$ por lo tanto la funci√≥n de trasferencia quedaria de la siguiente forma.
 
-$$I(S) = V(S)[\frac{1}{R}+ SC]$$
+$$I(s) = V(s)[\frac{1}{R}+ sC]$$
 
-$$\frac{V(S)}{I(S)} = \frac{1}{\frac{1}{R} + SC}$$
+$$\frac{V(s)}{I(s)} = \frac{1}{\frac{1}{R} + sC}$$
 
 $$\frac{V(S)}{I(S)} = \frac{R}{RCS + 1}$$
 
 $$\frac{Wo(S)}{Wi(S)} = \frac{1}{RCS + 1}$$
 
-donde $Wo(S) = \frac{V(S)}{R}$ y $WI(S) = I(S)$ normalmente los terminos $RC$ se definen como una constante de tiempo llamada tau $(\tau)$. Por la ecuaciÛn obtenida podemos decir que es un sistema de primer orden.
+donde $Wo(S) = \frac{V(S)}{R}$ y $WI(S) = I(S)$ normalmente los terminos $RC$ se definen como una constante de tiempo llamada tau $(\tau)$. Por la ecuaci√≥n obtenida podemos decir que es un sistema de primer orden.
 \subsection{Programa en scilab para observar el comportamiento de un sistema de primer orden}
 
 Para poder observar el comportamiento de cualquier sistema de primer orden cuando se le aplica un escalon unitario, ya se habia mencionado que siempre tiene la forma : 
 
 $$Y(s) = \frac{bs + c}{s(s + a)}$$
 
-La ecuaciÛn anterior la podemos resolver por el mÈtodo de fracciones parciales.
+La ecuaci√≥n anterior la podemos resolver por el m√©todo de fracciones parciales.
 
 $$Y(s) = \frac{bs + c}{s(s + a)} = \frac{A}{s} + \frac{B}{s + a}$$
 
@@ -81,7 +81,7 @@ $$\mathcal{L}^{-1}[Y(s) = \frac{A}{s} + \frac{B}{s + a}]$$
 
 $$us(t) = \frac{c}{a} + (b - \frac{c}{a})e^{-at}  $$
 
-Conociendo la ecuaciÛn anterior podemos diseÒar un programa que nos permita observar el comportamiento de cualquier sistema de primer orden. 
+Conociendo la ecuaci√≥n anterior podemos dise√±ar un programa que nos permita observar el comportamiento de cualquier sistema de primer orden. 
 \begin{center}
 \begin{verbatim}
 function [y] = fun2(a,b,c)
@@ -90,10 +90,10 @@ function [y] = fun2(a,b,c)
    plot(t,y);
 endfunction
 \end{verbatim}
-fig1-3 CÛdigo implementado en scilab \cite{Mora}
+fig1-3 C√≥digo implementado en scilab \cite{Mora}
 \end{center} 
 
-Con este programa solo basta con escribir la ecuaciÛn de la forma $Y(s) = \frac{bs + c}{s(s + a)}$ para encontrar los valores de a, b y c. \\ \\
+Con este programa solo basta con escribir la ecuaci√≥n de la forma $Y(s) = \frac{bs + c}{s(s + a)}$ para encontrar los valores de a, b y c. \\ \\
 Para probar el programa se uso un circuito RC que da un sistema de primer orden donde $\tau$ = 1. 
 
 \begin{verbatim}
@@ -136,12 +136,12 @@ Con $W_{in}=W_{o}$ obtuvimos lo siguiente:
 \end{center}
 
 \section{Conclusiones}
- Erick David Bedolla GarcÌa\\ \ \\
-En esta pr·ctica tuvimos la oportunidad de ver como el control es muy importante hoy en dÌa, ya que la parte de automatizaciÛn se usa en practicamente todos los sistemas industriales actuales. Se pudo observar que cualquier sistema puede ser determinado por un modelo matem·tico y simulado con un circuito elÈctrico lo cual hace muy pr·ctico ya que podemos ir probando por medio de un circuito en vez de probarlo con un sistema completo que podrÌa fallar y generar muchas perdidas econÛmicas.\\\\\
+ Erick David Bedolla Garc√≠a\\ \ \\
+En esta pr√°ctica tuvimos la oportunidad de ver como el control es muy importante hoy en d√≠a, ya que la parte de automatizaci√≥n se usa en practicamente todos los sistemas industriales actuales. Se pudo observar que cualquier sistema puede ser determinado por un modelo matem√°tico y simulado con un circuito el√©ctrico lo cual hace muy pr√°ctico ya que podemos ir probando por medio de un circuito en vez de probarlo con un sistema completo que podr√≠a fallar y generar muchas perdidas econ√≥micas.\\\\\
 
 Hernandez Arteaga Aracely Lizeth\\
 
-con respecto a si es mas grande o mas pequeÒa la salida dependera por asi decirlo de rR si r es muy grande esta no opondra resistencia al paso del liquido y si es pequeÒa se opindra probocando que la h se incremente 
+con respecto a si es mas grande o mas peque√±a la salida dependera por asi decirlo de rR si r es muy grande esta no opondra resistencia al paso del liquido y si es peque√±a se opindra probocando que la h se incremente 
 La transformada de laplace es importante para lograr visualizar la eciuacion en el dominio de la frecuencia que nos permite determinar la funcion de transferencia para nuestro sistema
 
 
@@ -176,9 +176,9 @@ La transformada de laplace es importante para lograr visualizar la eciuacion en 
 
 
 \begin{thebibliography}{99}
-	\bibitem{Ogata} Ingenieria de Control Moderna , Katsuhiko Ogata, 5a EdiciÛn.
-	\bibitem{Echeverria} Apuntes Scilab, Rosa EcheverrÌa LÌbano, Universidad de Sevilla.
-	\bibitem{Mora} IntroducciÛn a Scilab, HÈctor Manuel Mora Escobar, Universidad Nacional de Colombia Bogot·
+	\bibitem{Ogata} Ingenieria de Control Moderna , Katsuhiko Ogata, 5a Edici√≥n.
+	\bibitem{Echeverria} Apuntes Scilab, Rosa Echeverr√≠a L√≠bano, Universidad de Sevilla.
+	\bibitem{Mora} Introducci√≥n a Scilab, H√©ctor Manuel Mora Escobar, Universidad Nacional de Colombia Bogot√°
 \end{thebibliography}
 
 \end{document}
