@@ -1,0 +1,34 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [ ] Ortografía: Varios detalles de ortografa 
+- [ ] Estilo: Deben de tener mucho cuidado con la redacción, no se usa el "armamos", "vimos"; todo debe ser en tercera persona: "se arma", 
+"se observa", etc.
+- [x] Estructura
+- [ ] Originalidad
+- [ ] Imágenes, Tablas y Referencias: Inidcar cuales son las secciones de código, las imágenes están de muy mala calidad
+- [x] Estilo de referencias: 
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [x] Scilab y Ecuaciones 
+- [x] Respuesta al escalón
+- [x] Modos de operación del sistema Wo=Wi, Wo><Wi
+- [ ] Conclusiones: Las conclusiones deben ser técnicas; ambos autores no exponene lo visto en laboratorio, la función de transferencia, 
+problemas de implementación, ¿cómo es posible que el nivel se vuelva negativo?, etc. Aracely: Mucho cuidado con lo que escribes,
+en verdad no entiendo nada de lo que intentas decir en tus conclusiones.
+
+Repositorio:
+- [x] Carpetas
+- [x] Código Scilab
+- [x] Código de Latex
+- [x] Entregado en tiempo
+
+Grade 90
